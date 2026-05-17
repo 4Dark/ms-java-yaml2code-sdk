@@ -11,7 +11,7 @@
 
     <groupId>com.dark</groupId>
     <artifactId>ms-java-yaml2code-sdk</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>ms-java-yaml2code-sdk</name>
     <description>Shared SDK generated from OpenAPI contracts</description>
 
