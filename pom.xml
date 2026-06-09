@@ -71,7 +71,7 @@
                         <id>ms-py-agent</id>
                         <goals><goal>generate</goal></goals>
                         <configuration>
-                            <inputSpec>${project.basedir}/../docs/api-contracts/MsPyAgent-IntelligentAgent-v1.yaml</inputSpec>
+                            <inputSpec>${project.basedir}/../ms-project-docs/api-contracts/MsPyAgent-IntelligentAgent-v1.yaml</inputSpec>
                             <generatorName>java</generatorName>
                             <library>webclient</library>
                             <configOptions>
